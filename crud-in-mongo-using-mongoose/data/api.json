@@ -1,0 +1,26 @@
+[
+	{
+		"id":1,
+		"moviename":"The Boys (8.7/10) 60 min|Action, Comedy, Crime, Sci-Fi|26 Jul 2019",
+		"moral":"[A group of vigilantes sets out to take down corrupt superheroes who abuse their superpowers.]",
+		"actors":"Karl Urban, Jack Quaid, Antony Starr, Erin Moriarty",
+		"review":"I started this only because the cunts of William Butcher i think it is underrated sellon. Boys is set in a universe where superpowered people are recognized as heroes by the general public and owned by powerful corporation Vought International, which ensures that they are aggressively marketed and monetized. Outside of their heroic personas, most are arrogant and corrupt.",
+		"image":"images/boys.jpg"
+	},
+	{
+		"id":2,
+		"moviename":"Death Note (9.8/10) 24 min|Animation, Crime, Drama, Fantasy, Mystery, Thriller|21 Oct 2007",
+		"moral":"[An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.]",
+		"actors":" Mamoru Miyano, Brad Swaile, Vincent Tong, Ryô Naitô",
+		"review":"When there is no one like you or your thoughts are different from the other which are present to your surrounding then a thing called'BOREDOM' becomes a part of your life.In this a high school boy named Light Yagami who is a brillant student,topper of class,good in sports,popular in students,means he is living an ideal life which is a dream life of a normal student,Light is bored he wants some thing at the level of his intelligence and the Death Note helps him for this.The whole series is superb and according to me it is Masterpiece which is alone in the world.",
+		"image":"images/death_note.jpg"
+	},
+	{
+		"id":3,
+		"moviename":"Black Mirror (8.8/10) 60 min|Drama, Sci-Fi, Thriller|04 Dec 2011",
+		"moral":"[An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.]",
+		"actors":" Daniel Lapaine, Hannah John-Kamen, Michaela Coel, Beatrice Robertson-Jones",
+		"review":"No Words ! Really watch any season any episodes no matter, because all episodes have its own story,no one is interconnected.This is so thrilling that you just gone deep dive into it.Basically,it is focus on the future tech that how technoligies change us.",
+		"image":"images/black_mirror.jpg"
+	}
+]

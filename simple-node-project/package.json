@@ -1,0 +1,16 @@
+{
+  "name": "series-review",
+  "version": "1.0.0",
+  "description": "a dynamic web app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "author": "shubhamjr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-static": "^0.7.11"
+  }
+}

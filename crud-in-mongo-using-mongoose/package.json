@@ -1,0 +1,19 @@
+{
+  "name": "series-review",
+  "version": "1.0.0",
+  "description": "a dynamic web app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "shubhamjr",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "node-static": "^0.7.11"
+  }
+}

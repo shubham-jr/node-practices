@@ -1,0 +1,20 @@
+{
+  "name": "shubhamjr",
+  "version": "1.0.4",
+  "description": "login and signin system using JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubhamjr",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.7",
+    "slugify": "^1.5.1",
+    "validator": "^13.6.0"
+  }
+}
